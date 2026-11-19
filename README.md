@@ -1,4 +1,4 @@
-# SkankInstaller — ver. 1.0-Alpha
+# SkankInstaller — ver. 1.1-Alpha
 
 **Created By mUxa (u/Motor-Statement-8615)**
 
